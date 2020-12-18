@@ -2,7 +2,7 @@ package com.JavaAA.PrimitiveDatatypes;
 
 public class CreateprimitiveDT {
 
-    public static void main(String[] Args) {
+    public static void main(String[] args) {
         byte theByte = -128;
         short theShort = -32768;
         int theInt = 787838334;
