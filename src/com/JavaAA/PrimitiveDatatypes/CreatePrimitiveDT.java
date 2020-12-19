@@ -1,6 +1,6 @@
 package com.JavaAA.PrimitiveDatatypes;
 
-public class CreateprimitiveDT {
+public class CreatePrimitiveDT {
 
     public static void main(String[] args) {
         byte theByte = -128;
